@@ -1,0 +1,12 @@
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\bin\Debug\net7.0\TODO.Models.deps.json
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\bin\Debug\net7.0\TODO.Models.dll
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\bin\Debug\net7.0\TODO.Models.pdb
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\obj\Debug\net7.0\TODO.Models.csproj.AssemblyReference.cache
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\obj\Debug\net7.0\TODO.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\obj\Debug\net7.0\TODO.Models.AssemblyInfoInputs.cache
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\obj\Debug\net7.0\TODO.Models.AssemblyInfo.cs
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\obj\Debug\net7.0\TODO.Models.csproj.CoreCompileInputs.cache
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\obj\Debug\net7.0\TODO.Models.dll
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\obj\Debug\net7.0\refint\TODO.Models.dll
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\obj\Debug\net7.0\TODO.Models.pdb
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Models\obj\Debug\net7.0\ref\TODO.Models.dll
