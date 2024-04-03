@@ -1,0 +1,15 @@
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\bin\Debug\net7.0\TODO.Services.deps.json
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\bin\Debug\net7.0\TODO.Services.dll
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\bin\Debug\net7.0\TODO.Services.pdb
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\bin\Debug\net7.0\TODO.Models.dll
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\bin\Debug\net7.0\TODO.Models.pdb
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\obj\Debug\net7.0\TODO.Services.csproj.AssemblyReference.cache
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\obj\Debug\net7.0\TODO.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\obj\Debug\net7.0\TODO.Services.AssemblyInfoInputs.cache
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\obj\Debug\net7.0\TODO.Services.AssemblyInfo.cs
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\obj\Debug\net7.0\TODO.Services.csproj.CoreCompileInputs.cache
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\obj\Debug\net7.0\TODO.Services.csproj.CopyComplete
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\obj\Debug\net7.0\TODO.Services.dll
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\obj\Debug\net7.0\refint\TODO.Services.dll
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\obj\Debug\net7.0\TODO.Services.pdb
+C:\Users\joyihama\Documents\NewTodoApp\TODO.Services\obj\Debug\net7.0\ref\TODO.Services.dll
